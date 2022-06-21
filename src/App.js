@@ -1,0 +1,12 @@
+import React from "react";
+import "./styles/tasks.scss";
+
+function App() {
+  return (
+    <div>
+      <h1>hola</h1>
+    </div>
+  );
+}
+
+export default App;
